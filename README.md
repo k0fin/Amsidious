@@ -1,7 +1,8 @@
 # Amsidious
 
 ## Overview
-* Amsidious is an expirimental payload generation utility which utilizes the AMSI bypass methods listed below (from https://github.com/S3cur3Th1sSh1t)
+
+Amsidious is an expirimental payload generation utility which utilizes the AMSI bypass methods listed below (from https://github.com/S3cur3Th1sSh1t)
 
  - Patching amsi.dll AmsiScanBuffer by rasta-mouse
  - Dont use net webclient - this one is not working anymore
